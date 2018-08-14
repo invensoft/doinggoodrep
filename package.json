@@ -1,0 +1,13 @@
+{
+  "name": "doinggood",
+  "version": "1.0.0",
+  "description": "hello api",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sai",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
