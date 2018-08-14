@@ -1,0 +1,11 @@
+{
+  "name": "node-sample",
+  "description": "Our sample Node to Heroku app",
+  "main": "hello.js",
+  "scripts": {
+    "start": "node hello.js"
+  },
+  "dependencies": {
+   
+  }
+}
